@@ -1,2 +1,3 @@
-# spsml.github.io
-Signal Processing with Machine Learning 
+# Evolving Roles of Signal Processing with Machine Learning
+
+The workshop aims to bring together various points of view on the evolving roles signal processing has played and continues to play in modern machine learning and to foster the synergy between the two areas and their communities. We encourage discussions amongst researchers in computer vision, image processing, speech and language processing, theoretical machine learning, signal processing and hope to bring interpretability to deep learning methods and build better algorithms that can benefit from both signal processing and modern machine learning. We hope to see an emergence of a class of foundation models that can be trained on multimodal data with an improved understanding toward their performances and robustness/resilience, and systematic designs and practical implementation of some of these models that can be adapted to a wide range of downstream tasks in the fields of video, mage, speech, audio and text processing.
